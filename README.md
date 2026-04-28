@@ -15,6 +15,11 @@ Address:        127.0.0.1#53
 Name:   www.mydnsproject.local
 Address: 127.0.0.1
 
+<img width="998" height="797" alt="image" src="https://github.com/user-attachments/assets/72da3314-cdf3-463f-8c74-2d2dcfd5965a" />
+
+
+
+
 
 
   -----------------------------------------
